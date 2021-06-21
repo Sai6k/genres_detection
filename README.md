@@ -5,6 +5,7 @@ About the data:
 The provided data consists of 1000 music files divided in to 10 different Genres of 100 each. The music files are in “.au” format with 30 sec each. 
 
 Procedure:
+
 Step 1: Creating Spectrogram images in JPEG format for each Audio file. Below are some examples: 
 
 Figure 1: Image of classical genre audio file:
@@ -17,6 +18,7 @@ Figure 3: Image of pop genre audio file:
 ![pop 00013](https://user-images.githubusercontent.com/82253441/122783525-45708f80-d2cf-11eb-96c6-d53e264350f3.jpg)
 
 Step 2: Segregating the images to Train and Validation data sets.
+
 Step 3: Building a 2D Convolution Neural Network model.
 
 ![model](https://user-images.githubusercontent.com/82253441/122783642-5d481380-d2cf-11eb-9b8c-4f73a600d8d0.png)
